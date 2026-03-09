@@ -1,3 +1,4 @@
+#how to put words in quotes
 print("Hi \"python\"")
 print('Hi "python"')
 
