@@ -15,3 +15,5 @@ print('message 2')
 
 print('message1\n\n\nmessage2')
 
+# how to add tab
+print('message1\tmessage2')
